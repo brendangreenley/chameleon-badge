@@ -18,7 +18,7 @@ behavior testing. It can:
 
 ## Screenshot
 
-![Chameleon app UI](docs/app_ui.png)
+<img src="docs/app_ui.jpg" width="280" alt="Chameleon app UI">
 
 The identity section borrows an installed app's icon and name (here: Gmail); the badge
 section sets the counter. `ADD TO HOME` pins the mimic shortcut into the launcher.
