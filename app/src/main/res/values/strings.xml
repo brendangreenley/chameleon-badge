@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chameleon</string>
+    <string name="badge_label">Badge</string>
+    <string name="badge_hint">Badge number</string>
+    <string name="set_badge">Set badge</string>
+    <string name="clear_badge">Clear badge</string>
+    <string name="status_badge_set">Badge: %1$d</string>
+    <string name="status_badge_cleared">Badge cleared</string>
+    <string name="identity_label">Identity</string>
+    <string name="no_app_selected">No app selected</string>
+    <string name="pick_app">Pick app</string>
+    <string name="add_to_home">Add to home</string>
+    <string name="display_name_hint">Display name</string>
+    <string name="apply_name">Apply name</string>
+    <string name="picker_title">Choose an app</string>
+</resources>
