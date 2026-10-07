@@ -16,6 +16,13 @@ behavior testing. It can:
   Requires notification permission (Android 13+) and a launcher with notification
   access enabled.
 
+## Screenshot
+
+![Chameleon app UI](docs/app_ui.png)
+
+The identity section borrows an installed app's icon and name (here: Gmail); the badge
+section sets the counter. `ADD TO HOME` pins the mimic shortcut into the launcher.
+
 ## Build
 
 Requires JDK 17 and Android SDK (platform 34). No local.properties path is committed.
