@@ -39,6 +39,13 @@ adb install -r app-debug.apk
    + name). The counter appears on it once the launcher has notification access.
 4. **Clear badge** removes the notification and counter.
 
+## Recommended launcher fork
+
+For a fully identical mimic icon (the third-party shortcut corner badge is never
+drawn) and a notification counter that scales up to **20,000** on a pill-shaped badge,
+use this app with **[lawnchair-icon-badge-uncapped](https://github.com/brendangreenley/lawnchair-icon-badge-uncapped)** —
+a Lawnchair 15 fork that uncaps the badge counter and removes the shortcut marker.
+
 ## Licensing
 
 Copyright 2026 brendangreenley, licensed under the Apache License 2.0 — see [LICENSE](LICENSE).
